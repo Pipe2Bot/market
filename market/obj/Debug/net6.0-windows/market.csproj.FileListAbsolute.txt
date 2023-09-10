@@ -1,0 +1,17 @@
+D:\programming\visual\market\market\bin\Debug\net6.0-windows\market.exe
+D:\programming\visual\market\market\bin\Debug\net6.0-windows\market.deps.json
+D:\programming\visual\market\market\bin\Debug\net6.0-windows\market.runtimeconfig.json
+D:\programming\visual\market\market\bin\Debug\net6.0-windows\market.dll
+D:\programming\visual\market\market\bin\Debug\net6.0-windows\market.pdb
+D:\programming\visual\market\market\obj\Debug\net6.0-windows\market.csproj.AssemblyReference.cache
+D:\programming\visual\market\market\obj\Debug\net6.0-windows\market.Form1.resources
+D:\programming\visual\market\market\obj\Debug\net6.0-windows\market.csproj.GenerateResource.cache
+D:\programming\visual\market\market\obj\Debug\net6.0-windows\market.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\visual\market\market\obj\Debug\net6.0-windows\market.AssemblyInfoInputs.cache
+D:\programming\visual\market\market\obj\Debug\net6.0-windows\market.AssemblyInfo.cs
+D:\programming\visual\market\market\obj\Debug\net6.0-windows\market.csproj.CoreCompileInputs.cache
+D:\programming\visual\market\market\obj\Debug\net6.0-windows\market.dll
+D:\programming\visual\market\market\obj\Debug\net6.0-windows\refint\market.dll
+D:\programming\visual\market\market\obj\Debug\net6.0-windows\market.pdb
+D:\programming\visual\market\market\obj\Debug\net6.0-windows\market.genruntimeconfig.cache
+D:\programming\visual\market\market\obj\Debug\net6.0-windows\ref\market.dll
